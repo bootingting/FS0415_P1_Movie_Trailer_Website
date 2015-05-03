@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import fresh_tomatoes
 import media
 
@@ -34,7 +35,7 @@ the_phantom_menace = media.Movie("1999",
 
 attack_of_the_clones = media.Movie("2002",
                                 "Star Wars Episode II:Attack of the Clones",
-                                "Anakin Skywalker shares a forbidden romance with Padmé, while Obi-Wan investigates an assassination attempt on the Senator.",
+                                "Anakin Skywalker shares a forbidden romance with PadmÃ©, while Obi-Wan investigates an assassination attempt on the Senator.",
                                 "http://upload.wikimedia.org/wikipedia/en/3/32/Star_Wars_-_Episode_II_Attack_of_the_Clones_%28movie_poster%29.jpg",
                                 "https://www.youtube.com/watch?v=gYbW1F_c9eM",
                                 "Hayden Christensen, Natalie Portman, Ewan McGregor")
